@@ -1,2 +1,1 @@
-# hpo-examples
-Cray HPO Examples
+# Cray HPO Examples
